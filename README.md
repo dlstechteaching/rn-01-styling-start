@@ -1,4 +1,4 @@
-# rn-00-the-basics-start
+# rn-01-styling-start
 
 ## Prerequisites
 - [Node LTS version](https://nodejs.org/en/)
